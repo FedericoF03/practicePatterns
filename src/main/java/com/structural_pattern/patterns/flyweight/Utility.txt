@@ -1,0 +1,3 @@
+El patron de diseño estructural Fly weight su utilidad es la de ahorrar recursos cuando se consume mucho
+y se generan muchos objetos de diferentes clases, extraer los datos inmutables y
+crear una cache que los almacene para no crear nuevos objetos.

@@ -1,0 +1,5 @@
+Este patron de diseño creacional es la misma que factoria sin embargo esta antes de crear
+una sola clase que depende de factoria crea una factoria que crea factorias, estas factorias crean esas clases, diferencia con
+abstract es que estas solo crean una sola por factoria.
+Su utilidad se da cuando queres hacer una copia de un objeto y queres cambiar tener una configuracion diferente,
+cuando queres que tu codigo no dependa de clases concretas.

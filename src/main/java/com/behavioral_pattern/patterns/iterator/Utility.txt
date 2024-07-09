@@ -1,0 +1,3 @@
+El patron de diseño iterator, es un patron que busca la separacion del algoritmo en algoritmos tipo arbol o lista para poder
+hacer mas algoritmos que cumplan el mismo objetivo pero mas eficiente, basicamente te permite testear todo tipo de algoritmo por separado
+algoritmos donde se pueda iterar de ahi el nombre.

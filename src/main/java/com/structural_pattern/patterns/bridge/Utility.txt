@@ -1,0 +1,2 @@
+La utilidad de patrones de diseño estructurales para dividir una clase grande en varias chicas o generar variedad de tipo,
+usa la composicion.

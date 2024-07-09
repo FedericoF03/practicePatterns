@@ -1,0 +1,3 @@
+El patron de diseño estructural proxy sirve para crear un proxy,
+osea una funcion que se encarga de un control o un tema especifico antes de interactuar con la logica del software,
+inclusive manejar cache.

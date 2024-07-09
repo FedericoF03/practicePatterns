@@ -1,0 +1,4 @@
+Este patron de diseño tiene la utilidad igual a la de factory method donde
+se crea una factoria que crea factorias y esas factorias
+crean un objeto, sin embargo en esta se crea una factoria que crea las factorias que agrupan por categoria o valor comun
+Su utilidad se da cuando queres agrupar un grupo de clases que tengan una categoria en comun.

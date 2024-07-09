@@ -1,0 +1,3 @@
+La utilidad de este Patron es Poder hacer una creacion dinamica,
+poder agregar mas tipos de un objeto que dependen de una misma clase padre
+Sin embargo esta es la version que no respeta SOLID pues viola el principio Open/Closed

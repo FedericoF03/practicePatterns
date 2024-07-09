@@ -1,0 +1,3 @@
+El patron de diseño de comportamiento observer, es un patron que busca ejercer un comportamiento en un objeto que
+responde al cambio de otro objeto, este patron esel usado por react por ejemplo para generar su logica donde vos dependiendo del estado
+haces una cosa u/o otra.

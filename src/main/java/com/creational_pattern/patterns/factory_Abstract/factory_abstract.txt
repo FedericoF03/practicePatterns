@@ -1,0 +1,3 @@
+El patrón Abstract Factory define una interfaz para crear todos los productos,
+pero deja la propia creación de productos para las clases de fábrica concretas.
+Cada tipo de fábrica se corresponde con cierta variedad de producto.

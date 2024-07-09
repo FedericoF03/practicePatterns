@@ -1,0 +1,2 @@
+El patron de diseño de comportamiento strategy, su utilidad es la de ofrecer un contexto o clase que se encarga de manejar las familias
+de estrategias o algoritmos para hcer algo.

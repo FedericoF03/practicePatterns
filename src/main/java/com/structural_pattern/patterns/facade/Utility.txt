@@ -1,0 +1,1 @@
+Su utilidad es proporcionar una interfaz sencilla y abstraer los procesos complejos, como hacen las librerias y frameworks.

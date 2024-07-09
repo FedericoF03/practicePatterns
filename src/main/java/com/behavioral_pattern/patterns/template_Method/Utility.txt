@@ -1,0 +1,3 @@
+El template method patron de diseño de comportamiento es un patron que nos ofrece un contexto donde ejecutar una clase usando
+una clase abstracta que arma o ejecuta su algoritmo segun lo que necesite por ejemplo si quisiera hacer un displayer podrias
+insertar la logica que no se repite con el de un displayer de listas para evitar escribir codigo de mas.

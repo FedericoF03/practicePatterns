@@ -1,0 +1,3 @@
+El patron de diseño de comportamiento state si bien es parecido a observer este no busca centrar ese comportamiento mediante un suscriptor
+Este genera un contexto que dependiendo de su cambio su estado va a cambiar, ese estado tiene todo su algoritmo correspondiente,
+parecido al observer pero es contemplado desde diferentes lugar, a uno lo escuchan, el otro cambia segun su estado.

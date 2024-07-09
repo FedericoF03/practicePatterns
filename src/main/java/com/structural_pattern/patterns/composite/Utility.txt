@@ -1,0 +1,2 @@
+La utilidad de este patron de diseño estructural,
+es la de poder recorrer y ejercer funciones en clases que instancien otras clases dentro de la misma clase.

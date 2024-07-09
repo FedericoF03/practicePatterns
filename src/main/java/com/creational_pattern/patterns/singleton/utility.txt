@@ -1,0 +1,3 @@
+Su utilidad es cuando solo queres una instancia de una clase, cuando queres que todo dependa solo de una sola.
+Tambien sirve para el manejo de variables globales.
+En lo posible evitar usar este patron.

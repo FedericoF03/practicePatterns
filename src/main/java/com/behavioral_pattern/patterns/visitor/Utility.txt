@@ -1,0 +1,2 @@
+El patron de diseño de comportamiento visitor te sirve para insertar logica que no es compatible con la que se trata y se lo encarga
+a otro objeto/clase que se encarga del mismo, se usa cuando no tiene sentido que ciertas cosas no pertenezcan a una clase.

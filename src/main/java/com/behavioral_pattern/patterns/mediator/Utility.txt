@@ -1,0 +1,4 @@
+El patron de diseño de comportamiento mediador trata de orientar todo el comportamiento a un solo objeto de una clase mediador
+donde se encarga de la interracion entre los diferentes componentes o objetos que tenes, basicamente quita que se tenga que
+comunicar directamente entre ellos
+dejandole el trabajo de eso al mediador

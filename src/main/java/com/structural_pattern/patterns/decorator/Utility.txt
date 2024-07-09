@@ -1,0 +1,1 @@
+La utilidad de este patron de diseño es meterle varias capaz de diferente ejecuciones a traves de la composicion.

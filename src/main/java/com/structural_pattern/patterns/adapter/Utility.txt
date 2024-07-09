@@ -1,0 +1,1 @@
+La utilidad se da cuando queres generar compatibilidad entre diferentes objetos.

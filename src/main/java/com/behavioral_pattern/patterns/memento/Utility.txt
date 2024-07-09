@@ -1,0 +1,3 @@
+El patro de diseño de comportamiento nos permite almacenar un estado en una instancia memento el cual es inmodificable,
+tambien te permite recuperarlo, este patron tambien tiene un "cuidador" que seria una clase que se encarga de cuidar
+los estados como si fuera una cache (Esto puede afectar al rendimiento si se almacenan muchos.)
